@@ -1,5 +1,5 @@
 
-class Solution7 {
+class missing_no {
     public int missingNumber(int[] nums) {
     int n = nums.length;
     int sum = n*(n+1)/2;
